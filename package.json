@@ -1,0 +1,15 @@
+{
+  "name": "sortScores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sortScores.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
