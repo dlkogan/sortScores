@@ -22,5 +22,3 @@ function sortScores(unorderedScores, highestPossibleScore) {
 
     return sortedScores;
   }
-
-  sortScores([2,93,23,23,77,29,57], 100)
